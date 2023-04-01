@@ -1,0 +1,5 @@
+hello world in c
+hello world in cpp
+hello world in java
+hello world in python 
+the output is same but the syntax is differ  
